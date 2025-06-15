@@ -218,7 +218,7 @@ class FilterIconButton extends StatelessWidget {
           ),
         ),
         style: FilterStyles.getOutlinedButtonStyle(context).copyWith(
-          side: MaterialStateProperty.all(
+          side: WidgetStateProperty.all(
             BorderSide(
               color: borderColor ?? AppColors.greyBorder,
               width: 1,
@@ -250,7 +250,7 @@ class PrimaryButton extends StatelessWidget {
       child: ElevatedButton(
         onPressed: onPressed,
         style: FilterStyles.getPrimaryButtonStyle(context).copyWith(
-          backgroundColor: MaterialStateProperty.all(AppColors.primaryBlue),
+          backgroundColor: WidgetStateProperty.all(AppColors.primaryBlue),
         ),
         child: Row(
           mainAxisSize: MainAxisSize.min,

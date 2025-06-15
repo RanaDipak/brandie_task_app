@@ -7,10 +7,10 @@ class UploadDownloadButtons extends StatelessWidget {
   final VoidCallback onDownload;
 
   const UploadDownloadButtons({
-    Key? key,
+    super.key,
     required this.onUpload,
     required this.onDownload,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
