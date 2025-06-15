@@ -1,42 +1,37 @@
 # Brandie Task App
 
-This is my practical assignment submission for the Brandie Task App. I've created a Flutter-based task management application with a focus on delivering a clean and user-friendly interface.
+This is my practical assignment submission for the Brandie Task App. It's a Flutter application designed for reviewing accounts.
 
-## What I've Built
+## Key Features Implemented:
 
-I've developed a task management app that helps users organize their tasks efficiently. The app features:
-- A modern, easy-to-use interface
-- Smooth navigation between screens
-- Responsive design that works on different screen sizes
-- Task organization and filtering capabilities
+- **Review Accounts Screen**: Displays a list of accounts.
+- **Toggle Archive View**: Allows switching between active and archived accounts.
+- **Responsive Layout**: Adapts UI for mobile, tablet, and desktop screens.
+- **Sidebar Navigation**: Provides navigation on larger screens (and as a drawer on mobile).
+- **Account Cards**: Displays individual account details.
+- **Filtering**: Includes a filter bar for account management.
 
 ## How to Try the App
 
 ### Watch the Demo
-I've recorded a quick demo of the app in action: [Demo Video](https://icecreamapps.com/v/b6su5m8)
+I've recorded a quick demo of the app: [Demo Video](https://icecreamapps.com/v/b6su5m8)
 
 ### Install on Android
-If you're using Android, you can try the app right away:
+To install on Android:
 1. Download the APK from the `apk` folder: [oriflame.apk](apk/oriflame.apk)
 2. Enable "Install from Unknown Sources" in your Android settings
 3. Install and run the app
 
 ### Run from Source
-If you want to run the project yourself:
-1. Make sure you have Flutter installed
-2. Clone this repository
-3. Run `flutter pub get` to install dependencies
-4. Use `flutter run` to start the app
+To run the project yourself:
+1. Ensure Flutter (SDK version 3.32.0+) is installed.
+2. Clone this repository.
+3. Run `flutter pub get` in the project directory.
+4. Execute `flutter run` to start the application.
 
 ## My Approach
 
-For this assignment, I focused on:
-- Creating a polished user interface
-- Making the app easy to use
-- Ensuring smooth performance
-- Writing clean, maintainable code
-
-I used Flutter because it allows for quick development while maintaining high quality across different platforms.
+My focus was on building a functional, responsive UI. I used Flutter's built-in widgets and state management to achieve the required features. Data is currently hardcoded for demonstration purposes.
 
 ## Notes
 
