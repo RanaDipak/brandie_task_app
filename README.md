@@ -48,7 +48,7 @@ Feel free to explore the code and let me know if you have any questions!
 
 ## Prerequisites
 
-- Flutter SDK (version 3.8.0 or higher)
+- Flutter SDK (version 3.32.0 or higher)
 - Dart SDK (version 3.8.0 or higher)
 - Android Studio / Xcode (for mobile development)
 - VS Code (recommended IDE)
