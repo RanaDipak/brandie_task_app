@@ -1,17 +1,50 @@
 # Brandie Task App
 
-A Flutter-based task management application with a modern UI design.
+This is my practical assignment submission for the Brandie Task App. I've created a Flutter-based task management application with a focus on delivering a clean and user-friendly interface.
 
-## Demo Video
+## What I've Built
 
-You can watch a demo of the application here: [Demo Video](https://icecreamapps.com/v/b6su5m8)
+I've developed a task management app that helps users organize their tasks efficiently. The app features:
+- A modern, easy-to-use interface
+- Smooth navigation between screens
+- Responsive design that works on different screen sizes
+- Task organization and filtering capabilities
 
-## Quick Start (Android)
+## How to Try the App
 
-For Android users, you can directly install the pre-built APK:
+### Watch the Demo
+I've recorded a quick demo of the app in action: [Demo Video](https://icecreamapps.com/v/b6su5m8)
+
+### Install on Android
+If you're using Android, you can try the app right away:
 1. Download the APK from the `apk` folder: [oriflame.apk](apk/oriflame.apk)
 2. Enable "Install from Unknown Sources" in your Android settings
-3. Install the APK on your device
+3. Install and run the app
+
+### Run from Source
+If you want to run the project yourself:
+1. Make sure you have Flutter installed
+2. Clone this repository
+3. Run `flutter pub get` to install dependencies
+4. Use `flutter run` to start the app
+
+## My Approach
+
+For this assignment, I focused on:
+- Creating a polished user interface
+- Making the app easy to use
+- Ensuring smooth performance
+- Writing clean, maintainable code
+
+I used Flutter because it allows for quick development while maintaining high quality across different platforms.
+
+## Notes
+
+- The app currently uses sample data for demonstration
+- I've organized the code to make it easy to understand and modify
+- All assets are properly organized in the assets folder
+
+Feel free to explore the code and let me know if you have any questions!
 
 ## Prerequisites
 
